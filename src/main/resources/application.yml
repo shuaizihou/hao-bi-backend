@@ -98,3 +98,9 @@ yuapi:
   client:
     access-key: zmih94z3gpaajppq3b5th9g54gk0k1s6
     secret-key: 480lnwlvobgs8mpkvnqjutu8gpe9j9bp
+# 讯飞 AI 配置
+xunfei:
+  client:
+    appid: d54e9b94
+    apiSecret: N2ExNTMyN2FjMzRhOTg1OTcwY2RjMzM4
+    apiKey: a84755abeff40568de1d708226bf246f
